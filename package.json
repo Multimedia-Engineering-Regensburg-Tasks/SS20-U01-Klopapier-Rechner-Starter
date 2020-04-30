@@ -1,0 +1,23 @@
+{
+  "name": "mme-klopapier-app",
+  "version": "1.0.0",
+  "description": "A simple app to make sure nobody runs out of loo paper",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U01-Klopapier-Rechner-Starter"
+  },
+  "author": "Alexander Bazo <alexanderbazo@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U01-Klopapier-Rechner-Starter/issues"
+  },
+  "homepage": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U01-Klopapier-Rechner-Starter#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
